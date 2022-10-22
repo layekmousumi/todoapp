@@ -1,0 +1,12 @@
+.addtext {
+  background-color: red;
+  border: none;
+}
+.todoinput {
+  width: 100%;
+}
+.input {
+  background-color: white;
+  border: none;
+  color: black;
+}

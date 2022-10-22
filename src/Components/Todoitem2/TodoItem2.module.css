@@ -1,0 +1,16 @@
+.TodoItem2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 2px;
+}
+.deletebutton {
+  background-color: yellow;
+  border: none;
+  border-radius: 4px;
+  transition: all 0.5s;
+}
+.deletebutton:hover {
+  background-color: orangered;
+}

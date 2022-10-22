@@ -19,8 +19,12 @@ a {
   html {
     color-scheme: dark;
   }
-  body {
-    color: white;
-    background: black;
-  }
+}
+body {
+  color: white;
+  background: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
