@@ -1,23 +1,4 @@
-//import React from 'react'
-//import TodoInput from '../src/Components/TodoInput'
-//import TodoItem from "../src/Components/TodoItem"
 
-//const Home = () => {
-  //return (
-   // <div>
-     // <h1>TODO</h1>
-      //<div className='todoList'>
-        //<TodoItem text="you & me" checked={true} />
-       // <TodoItem  text="I wanna kiss you" />
-       // <TodoItem  text="I wanna kiss you" />
-        //<TodoItem  text="I wanna kiss you" />
-      //</div>
-      //<TodoInput/>
-   // </div>
- // )
-//}
-
-//export default Home
 import react, { useState } from "react";
 import TodoInput2 from '../src/Components/Todoinput2';
 import TodoItem2 from "../src/Components/TodoItem2";
